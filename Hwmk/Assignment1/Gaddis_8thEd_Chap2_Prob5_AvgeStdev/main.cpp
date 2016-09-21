@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
     int c;
     int d;
     int e; 
-    float avg,stdev;
+    float avg, sum; //average, total
     
     //Input values
     cout<<"This program calculates the mean and standard deviation"<<endl;
@@ -35,14 +35,14 @@ int main(int argc, char** argv) {
     e = 33; 
     
     //Process values -> Map inputs to Outputs
-    avg=(a+b+c+d+e)/5;
-    stdev=pow(((a-avg)*(a-avg)+(b-avg)*(b-avg)+(c-avg)*(c-avg)+
-            (d-avg)*(d-avg)+(e-avg)*(e-avg))/4,0.5);
+    sum=(a+b+c+d+e); //28+32+37+24+33
+    avg=sum/5; 
     
     //Display Output
     cout<<"The input values = "<<a<<" "<<b<<" "<<c<<" "<<d<<" "<<e<<endl;
-    cout<<"The mean = "<<avg<<endl;
-    cout<<"The standard Deviation = "<<stdev<<endl;
+    cout<<"The sum = "<<sum<<endl;
+    cout<<"The average = "<<avg<<endl;
+
     
     //Exit Program
     return 0;
