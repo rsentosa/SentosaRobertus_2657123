@@ -19,9 +19,9 @@ using namespace std;  //Name-space used in the System Library
 int main(int argc, char** argv) {
     //Declaration of Variables
     char s=' ';//The space character
-    char x;    //Character used to create the Big C
+    char x;    //Character used to create the triangle pattern
     //Input values
-    cout<<"What character would you like to use to make a Big Triangle?\n";
+    cout<<"What character would you like to use to make a triangle pattern?\n";
     cin>>x;
     //Process values -> Map inputs to Outputs
 
