@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=MinGW-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/MinGW-Windows
-CND_ARTIFACT_NAME_Debug=cpptemplate
-CND_ARTIFACT_PATH_Debug=dist/Debug/MinGW-Windows/cpptemplate
+CND_ARTIFACT_NAME_Debug=gaddis_8thed_chap2_prob10_mpg
+CND_ARTIFACT_PATH_Debug=dist/Debug/MinGW-Windows/gaddis_8thed_chap2_prob10_mpg
 CND_PACKAGE_DIR_Debug=dist/Debug/MinGW-Windows/package
-CND_PACKAGE_NAME_Debug=cpptemplate.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/MinGW-Windows/package/cpptemplate.tar
+CND_PACKAGE_NAME_Debug=gaddis8thedchap2prob10mpg.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/MinGW-Windows/package/gaddis8thedchap2prob10mpg.tar
 # Release configuration
 CND_PLATFORM_Release=MinGW-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/MinGW-Windows
-CND_ARTIFACT_NAME_Release=cpptemplate
-CND_ARTIFACT_PATH_Release=dist/Release/MinGW-Windows/cpptemplate
+CND_ARTIFACT_NAME_Release=gaddis_8thed_chap2_prob10_mpg
+CND_ARTIFACT_PATH_Release=dist/Release/MinGW-Windows/gaddis_8thed_chap2_prob10_mpg
 CND_PACKAGE_DIR_Release=dist/Release/MinGW-Windows/package
-CND_PACKAGE_NAME_Release=cpptemplate.tar
-CND_PACKAGE_PATH_Release=dist/Release/MinGW-Windows/package/cpptemplate.tar
+CND_PACKAGE_NAME_Release=gaddis8thedchap2prob10mpg.tar
+CND_PACKAGE_PATH_Release=dist/Release/MinGW-Windows/package/gaddis8thedchap2prob10mpg.tar
 #
 # include compiler specific variables
 #
