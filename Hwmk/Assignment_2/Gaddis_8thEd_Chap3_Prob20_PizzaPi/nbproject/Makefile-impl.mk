@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=CPPTemplate
+PROJECTNAME=Gaddis_8thEd_Chap3_Prob20_PizzaPi
 
 # Active Configuration
 DEFAULTCONF=Debug
